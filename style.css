@@ -1,0 +1,111 @@
+.photo01 {
+    
+    position: absolute;
+    margin-left: 378px;
+    top: 140px;
+}
+.texto {
+    position: absolute;
+    margin-left: 678px;
+    top: 123px;
+    font-size: 30px;
+}
+.p2  {
+    position: absolute;
+    margin-left: 679px;
+    top: 183px;
+    font-size: 20px;
+}
+#caixa {
+    position: absolute;
+    padding: 6px;
+    width: 260px;
+    text-align: center;
+    margin-left: 679px;
+    top: 283px;
+}
+#caixa2 {
+    position: absolute;
+    padding: 4px;
+    width: 54px;
+    margin-left:679px;
+    top: 363px;
+}
+.p3 {
+    position: absolute;
+    margin-left:679px;
+    top: 245px ;
+}
+.p4 {
+    position: absolute;
+    margin-left:679px;
+    top: 323px;
+}
+.botao {
+    position: relative;
+    margin-left:679px;
+    top: 370px;
+    background-color: rgb(255, 196, 0);
+    padding: 12px;
+    width: 230px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    color: white;
+    font-size: 12pt;
+}
+.botao:hover {
+    background-color: rgb(211, 211, 88);
+    transition: 0.5s;
+}
+#rod-01 {
+    background-color: rgba(0, 0, 0, 0.384);
+    padding: 20px;
+    margin-top: 440px;
+    margin-right: -8px;
+    margin-left: -8px;
+    text-align: center;
+    border-top: 1px solid black;
+}
+.subtitle {
+    margin-left: -38px;
+}
+.fildset {
+    position: absolute;
+    margin-left: 530px;
+    width: 450px;
+}
+#nome {
+    width: 300px;
+    height: 40px;
+    background-color: rgb(235, 190, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12pt;
+}
+#nome:hover {
+    background-color: white;
+}
+#cont-rodape{
+    background-color: rgba(0, 0, 0, 0.384);
+    padding: 20px;
+    margin-top: 340px;
+    margin-right: -8px;
+    margin-left: -8px;
+    text-align: center;
+    border-top: 1px solid black;
+}
+.contato-botao {
+    position: relative;
+    margin-left:700px;
+    top: 300px;
+    background-color: rgb(255, 196, 0);
+    padding: 12px;
+    width: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    color: white;
+    font-size: 12pt;
+}
+.contato-botao:hover {
+    background-color: rgb(211, 211, 88);
+    transition: 0.5s;
+}

@@ -1,0 +1,103 @@
+  
+@media (max-width: 800px){
+    h1 {
+        position: absolute;
+        display: inline-block;
+        font-size: 44px;
+         }
+    figure.foto1 {
+        margin-left: 9px;
+        top: -11px;
+    }figure.foto2 {
+        position: absolute;
+        margin-left: 9px;
+        top: 433px;
+    }figure.foto3 {
+        margin-left: 9px;
+        top: 890px;
+
+    }figure.foto4 {
+        margin-left: 9px;
+        top: 1340px;           
+    }figure.foto5 {
+        margin-left: 9px;
+        top: 1800px;  
+
+    }figure.foto6{
+        margin-left: 9px;
+        top: 2260px;
+    }#rodape {
+        position: relative;
+        display: block;
+        top: 1750px;
+    }.media-rosa {
+        width: 491px;
+        height: 100px;
+    }.foto1 {
+        margin-left: -359px;
+        width: 150px;
+    }.texto {
+        margin-left: 180px;
+        font-size: 27px;
+    }.p2{
+        margin-left: 180px;
+    }.p3 {
+        margin-left: 180px;
+    }.p4 {
+        margin-left: 180px;
+    }#caixa {
+        margin-left: 180px;
+    }#caixa2 {
+        margin-left: 180px;
+    }.botao {
+        margin-left: 180px;
+    }.img-bronca {
+       position: absolute;
+       margin-left: -79px;
+       width: 400px;
+    }#texto p{
+        position: relative;
+        display: block;
+        top: 340px;
+        width: 380px;
+        height: 1600px;
+        padding: -900px;
+        
+        margin-left: -690px;
+    }#rod-sobre {
+        position: relative;
+        display: block;
+        top: 570px;
+        width: 450px;
+    }.img {
+        width: 350px;
+        height: 300px;
+        margin-left: 40px;
+    }#title h1 {
+        margin-left: -160px;
+        font-size: 30pt;
+    }.fildset {
+        top: 140px;
+        margin-left: 70px;
+    }.contato-botao {
+        top: 370px;
+        margin-left: 240px;
+    }#cont-rodape {
+        position: relative;
+        top: 80px;
+        
+    }
+}   
+        
+       
+    
+        
+       
+     
+        
+    
+
+
+        
+    
+    

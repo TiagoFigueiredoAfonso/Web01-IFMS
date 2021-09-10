@@ -1,0 +1,148 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div#cabecalho {
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    color: rgb(247, 246, 243);
+    padding: 4px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+li {
+    position: relative; /* relativo em dentro do li, não ultrapassa outras tags*/
+    display: inline-block; /* lado a lado*/
+}
+a {
+    font-size: 15pt;
+    text-decoration: none;
+    color: rgb(250, 245, 245);
+    padding: 8px;
+}
+a:hover {
+    color: yellow;
+    transition: 1s;
+}
+div#imgrosa {
+    margin-left: -8px;
+}
+div#corpo {
+   margin-left: 100px; 
+   position: relative;
+   display: block;
+}
+figure.foto1 {
+    position: absolute;
+    top: 48px;
+} 
+#fig01 {
+    position: absolute;
+    top: 382px;
+}   
+.sombra img:hover{
+    width: 259px;
+    height: 360px;
+    box-shadow: 3px 5px 2px  black;
+}    
+figure.foto2 {
+    position: absolute;
+    margin-left: 460px;
+    top: 48px;
+}
+#fig02 {
+    position: absolute;
+    margin-left: 10px;
+    top: 382px;
+}
+figure.foto3 {
+    position: absolute;
+    margin-left: 860px;
+    top: 48px;
+}
+#fig03 {
+    position: absolute;
+    margin-left: 12px;
+    top: 382px;
+}
+figure.foto4 {
+    position: absolute;
+    top: 508px;
+}
+#fig04 {
+    position: absolute;
+    top: 380px;
+}
+figure.foto5 {
+    position: absolute;
+    top: 508px;
+    margin-left: 460px;
+}
+#fig05 {
+    position: absolute;
+    top: 388px;
+}
+figure.foto6 {
+    position: absolute;
+    top: 508px;
+    margin-left: 860px;
+}
+#fig06 {
+    position: absolute;
+    top: 388px;
+}
+#figure {
+    display: inline-block;
+}
+div#titulo {
+    position: absolute;
+    display: block;
+    top: 5%;
+    left: 32%;
+    font-family:'Courier New', Courier, monospace;
+    font-style: italic;
+    color: rgb(241, 57, 82);
+    text-shadow: 1px 1px 1px black;
+    font-size: 40px;
+}
+div#title {
+    color: rgb(241, 57, 82);
+    text-shadow: 1px 1px 1px black;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+.img {
+    position: absolute;
+    display: block;
+    top: 190px;
+    margin-left: 100px;
+    width: 600px;
+    height: 500px;
+}
+div#texto {
+    position: absolute;
+    width: 500px;
+    top: 170px;
+    margin-left: 720px;
+    text-align: justify;
+    margin-right: 20px;
+}    
+#rodape{
+    background-color: rgba(0, 0, 0, 0.384);
+    padding: 20px;
+    margin-top: 1040px;
+    margin-right: -8px;
+    margin-left: -8px;
+    text-align: center;
+    border-top: 1px solid black;
+}  
+#rod-sobre  {
+    background-color: rgba(0, 0, 0, 0.384);
+    padding: 20px;
+    margin-top: 610px;
+    margin-right: -8px;
+    margin-left: -8px;
+    text-align: center;
+    border-top: 1px solid black;
+}
